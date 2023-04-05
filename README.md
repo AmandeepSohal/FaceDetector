@@ -6,6 +6,7 @@ Face detector with image will detect a face(s) facing forwards in the image, and
 Face detector with webcam will detect a face(s) facing forwards in the webcam in real time and crete a constantly updating rectangle around the face(s)
 
 What I learned:
+
 How to read a .xml file with cv2
 
 How to read and show images 
